@@ -147,4 +147,4 @@ La création de nouvelles missions est réservée aux administrateurs. Utilisez 
 
 ## 👥 Auteurs
 
-Projet réalisé par **[@Maxence](https://github.com/MaxenceBatt)**, **[@LucasTreiber](https://github.com/LucasTreiber)** et **[@LouisCasella](https://github.com/LouisCasella)** dans le cadre de la **SAE24 — BUT Informatique 1ère année**, IUT Robert Schuman, Université de Strasbourg — Session 2026.
+Projet réalisé par **[@MaxenceBatt](https://github.com/MaxenceBatt)**, **[@LucasTreiber](https://github.com/LucasTreiber)** et **[@LouisCasella](https://github.com/LouisCasella)** dans le cadre de la **SAE24 — BUT Informatique 1ère année**, IUT Robert Schuman, Université de Strasbourg — Session 2026.
